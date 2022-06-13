@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuckyDL21
-- 👀 I’m interested in Recommendation Systems,Natural Language Processing
-- 🌱 I’m currently learning about the Graph Neural Netowrks
+- 👀 I’m interested in Recommendation Systems, Natural Language Processing.
+- 🌱 I’m currently learning about the Graph Neural Networks.
 - 📫 How to reach me jihwan2854@naver.com :)
 
 <!---
